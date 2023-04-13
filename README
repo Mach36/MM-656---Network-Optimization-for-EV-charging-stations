@@ -1,0 +1,9 @@
+
+
+# Project team
+- Mrinal Sahu 200110070
+- Vishal Kumar 200110118
+# Usage
+- Install AMPL
+- Clone this repository into AMPL's directory
+- Run `include city.run` in the AMPL shell
